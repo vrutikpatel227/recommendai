@@ -1,0 +1,3 @@
+CONTENT_WEIGHT = 0.5
+COLLABORATIVE_WEIGHT = 0.5
+DATA_PATH = "data/raw/movielens.csv"

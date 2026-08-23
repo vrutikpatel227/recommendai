@@ -4,6 +4,13 @@ Your personal cinematic universe — discover, save, and explore movies you’ll
 RecommendAI is a **Streamlit‑based movie recommendation system** that combines content‑based filtering, collaborative suggestions, and hybrid recommendations with a polished Netflix‑style UI.
 
 ---
+# 🎬 RecommendAI
+
+A Streamlit-based movie recommendation system using OMDb API.
+
+## 🚀 Live Demo
+You can try the app here: [RecommendAI Live](https://recommend-ai.streamlit.app/)
+
 
 ## 🚀 Features
 
